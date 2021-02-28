@@ -19,4 +19,5 @@ npm run build --report
 ```
 # 后台api在api文件下 
   node server.js
+  # 数据库使用的是mongodb 
 
