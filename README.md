@@ -1,6 +1,6 @@
 # vue-project
 
-> A Vue.js project
+> A Vue.js project 一个仓库管理系统，实现了对仓库出入库信息的记录，库存通过echarts实现数据可视化，界面使用了element-ui,后台使用node.js写的api接口。
 
 ## Build Setup
 
